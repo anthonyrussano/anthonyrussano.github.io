@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>anthonyrussano.github.io</title>
+      <link href="/2022/05/05/anthonyrussano.github.io/"/>
+      <url>/2022/05/05/anthonyrussano.github.io/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Description">Description</h2><p><a href="https://anthonyrussano.github.io">https://anthonyrussano.github.io</a> is a static site hosted by GitHub pages.</p><p>The source code is privately held on a GitLab server.</p><p>The static html is generated locally in my Development Environment and then deployed to my public GithHub Repository.</p><blockquote><p>Public Repo: <a href="https://github.com/anthonyrussano/anthonyrussano.github.io">https://github.com/anthonyrussano/anthonyrussano.github.io</a></p></blockquote><h2 id="Purpose">Purpose</h2><p>Publish code project related info.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><h2 id="Sources">Sources</h2><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://github.com/">github.com</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Website </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>cloudtraining.on.fleek.co</title>
+      <link href="/2022/05/05/cloudtraining.on.fleek.co/"/>
+      <url>/2022/05/05/cloudtraining.on.fleek.co/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Description">Description</h2><p><a href="https://cloudtraining.on.fleek.co">https://cloudtraining.on.fleek.co</a> is a static site hosted on IPFS using the <a href="http://Fleek.co">Fleek.co</a> platform.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><p>The source code is privately held on my GitLab server.</p><p>The static html is generated locally in my Development Environment and then directly uploaded to IPFS and deployed to fleek’s CDNs using the fleek cli-tool.</p><h2 id="Purpose">Purpose</h2><p>To Quickly and easily publish educational articles related to Cloud Technologies.</p><h2 id="Sources">Sources</h2><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://fleek.co/">fleek.co</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Websites </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>anthonyrussano.github.io</title>
+  
+  
+  <link href="https://anthonyrussano.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://anthonyrussano.github.io/"/>
+  <updated>2022-05-06T05:34:53.970Z</updated>
+  <id>https://anthonyrussano.github.io/</id>
+  
+  <author>
+    <name>Anthony Russano</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>anthonyrussano.github.io</title>
+    <link href="https://anthonyrussano.github.io/2022/05/05/anthonyrussano.github.io/"/>
+    <id>https://anthonyrussano.github.io/2022/05/05/anthonyrussano.github.io/</id>
+    <published>2022-05-06T05:34:53.970Z</published>
+    <updated>2022-05-06T05:34:53.970Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Description">Description</h2><p><a href="https://anthonyrussano.github.io">https://anthonyrussano.github.io</a> is a static site hosted by GitHub pages.</p><p>The source code is privately held on a GitLab server.</p><p>The static html is generated locally in my Development Environment and then deployed to my public GithHub Repository.</p><blockquote><p>Public Repo: <a href="https://github.com/anthonyrussano/anthonyrussano.github.io">https://github.com/anthonyrussano/anthonyrussano.github.io</a></p></blockquote><h2 id="Purpose">Purpose</h2><p>Publish code project related info.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><h2 id="Sources">Sources</h2><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://github.com/">github.com</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://anthonyrussano.github.io&quot;&gt;https://anthonyrussano.github.io&lt;/a&gt; is a static site ho</summary>
+      
+    
+    
+    
+    
+    <category term="Website" scheme="https://anthonyrussano.github.io/tags/Website/"/>
+    
+    <category term="Github" scheme="https://anthonyrussano.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cloudtraining.on.fleek.co</title>
+    <link href="https://anthonyrussano.github.io/2022/05/05/cloudtraining.on.fleek.co/"/>
+    <id>https://anthonyrussano.github.io/2022/05/05/cloudtraining.on.fleek.co/</id>
+    <published>2022-05-06T05:34:53.970Z</published>
+    <updated>2022-05-06T05:34:53.970Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Description">Description</h2><p><a href="https://cloudtraining.on.fleek.co">https://cloudtraining.on.fleek.co</a> is a static site hosted on IPFS using the <a href="http://Fleek.co">Fleek.co</a> platform.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><p>The source code is privately held on my GitLab server.</p><p>The static html is generated locally in my Development Environment and then directly uploaded to IPFS and deployed to fleek’s CDNs using the fleek cli-tool.</p><h2 id="Purpose">Purpose</h2><p>To Quickly and easily publish educational articles related to Cloud Technologies.</p><h2 id="Sources">Sources</h2><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p><a href="https://fleek.co/">fleek.co</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://cloudtraining.on.fleek.co&quot;&gt;https://cloudtraining.on.fleek.co&lt;/a&gt; is a static site </summary>
+      
+    
+    
+    
+    
+    <category term="Websites" scheme="https://anthonyrussano.github.io/tags/Websites/"/>
+    
+  </entry>
+  
+</feed>
