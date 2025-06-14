@@ -7,3 +7,5 @@ redirect_from:
   - /about.html
 ---
 Hi, I'm Anthony Russano!
+
+If you've come this far, you should probably head on over to my main site, anthonyrussano.com
