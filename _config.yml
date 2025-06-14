@@ -24,15 +24,15 @@ author:
   # Biographic information
   avatar           : "headshot.jpg"
   name             : "Anthony Russano"
-  pronouns         : "Christian"
-  bio              : "DevOps Eng @ CHOP"
-  location         : "San Diego"
+  pronouns         : #
+  bio              : "DevSecOps Engineer / AI Strategist"
+  location         : #
   employer         : "Children's Hospital of Philadelphia"
   uri              : # URL
   email            : "me@anthonyrussano.com" 
 
   # Academic websites
-  academia         : https://wikip.co
+  academia         : #
   arxiv            : # URL
   googlescholar    : # URL
   impactstory      : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : anthonyrussano
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
